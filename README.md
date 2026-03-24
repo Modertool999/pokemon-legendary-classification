@@ -19,7 +19,7 @@ I trained and compared a couple of classic ML models on a cleaned version of the
 - even a simple **logistic regression** model performs extremely well
 - a **random forest** model is almost perfect on this task and stays that way under cross-validation
 
-Addiitonally, game-design metadata like **capture rate**, **base egg steps**, and **experience growth** turned out to be some of the strongest signals.
+Additonally, game-design metadata like **capture rate**, **base egg steps**, and **experience growth** turned out to be some of the strongest signals, which surprised me.
 
 ## Dataset
 
