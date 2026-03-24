@@ -140,3 +140,5 @@ That was probably the most interesting part of the project for me. The model was
 - Built and evaluated ML models to predict Pokémon legendary status from gameplay and stat data, achieving **99.6% cross-validated accuracy** and **0.9996 ROC-AUC** with a random forest classifier.
 - Compared linear and nonlinear approaches using **stratified 5-fold cross-validation** and class-imbalance metrics, showing ensemble models significantly outperformed a strong logistic regression baseline.
 - Interpreted model behavior with coefficient and feature-importance analysis, identifying **capture rate, base egg steps, and experience growth** as the strongest predictors.
+
+
