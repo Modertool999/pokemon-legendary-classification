@@ -79,7 +79,9 @@ On a held-out test split, logistic regression reached **98.1% accuracy** and the
   <img src="assets/rf_importances.png" alt="Random forest feature importances" width="760">
 </p>
 
-(Importance based on rf.feature_importances_ in scikitlearn, which uses <a href="https://en.wikipedia.org/wiki/Decision_tree_learning#Gini_impurity">gini impruty</a>)
+(Importance based on rf.feature_importances_ in scikitlearn, which uses <a href="https://en.wikipedia.org/wiki/Decision_tree_learning#Gini_impurity" target="_blank">gini impruty</a>).
+
+
 Both models pointed to the same small set of standout predictors:
 
 - **base_egg_steps**
